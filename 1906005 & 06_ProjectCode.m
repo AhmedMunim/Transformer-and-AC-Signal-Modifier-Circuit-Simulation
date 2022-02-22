@@ -1,4 +1,4 @@
-classdef Project_1906005 < matlab.apps.AppBase
+classdef Project_1906005_06 < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
